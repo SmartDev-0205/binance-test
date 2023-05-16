@@ -1,0 +1,23 @@
+{
+  "api_key": "UQLp2bYaqUzlkFH0oYl00k6CHkruhbrS7dFeBjkqdt1WhM2ZY81cuk7GCN2rtlQZ",
+  "secret_key": "CoCQ0OGRXCjAEpl1nN0Baw8oFJKXMnLoMUsMCqjmYCLborhAsPwwCFXtLYzD07f3",
+  "usdt": "50",
+  "leverage": "50",
+  "entry_price": "25000",
+  "stoploss": "1",
+  "sequence": "3",
+  "stop_movel": true,
+  "trailing_buy": "1",
+  "trailing_sell": "1",
+  "activate": "5",
+  "tp1": "1",
+  "sl1": "1",
+  "tp2": "1",
+  "sl2": "1",
+  "tp3": "1",
+  "sl3": "1",
+  "tp4": "1",
+  "sl4": "1",
+  "tp5": "1",
+  "sl5": "1"
+}
